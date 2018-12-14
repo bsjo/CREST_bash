@@ -1,0 +1,12 @@
+#CREST bash
+
+#At first, you need to set up environment and download hg19, hg19.2bit
+#Clipping Reveals Structure
+#https://www.stjuderesearch.org/site/lab/zhang
+#http://genomic-identity.wikidot.com/install-blat
+
+#Example: Input and Ouput
+#Single sample(Example) : CREST.sh
+#Multi sample : CREST_multi.sh sample_folder
+
+#by BioinformaticsAndMe
